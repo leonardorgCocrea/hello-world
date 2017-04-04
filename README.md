@@ -1,12 +1,14 @@
 # hello-world leo
 + prueba del repositorio hola mundo
 
-<html>
-<head>
-     <title>Título</title>
-</head>
-<body>
-     <!-- Un comentario -->
-     <p>Un <strong>texto</strong> que <em>vas</em> a <u>ver</u> aparecer</p>
-</body>
-</html>
+HTML>
+<HEAD>
+<TITLE>Mi primera pagina web </TITLE>
+</HEAD>
+<BODY>
+<H1 align="center" >Mi Primera pagina web </H1>
+<HR>
+<P>Esto tan sencillo es una verdadera página web, aunque le falta el contenido, 
+pero todo llegará.</P>
+</BODY>
+</HTML> 
