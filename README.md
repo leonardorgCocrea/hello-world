@@ -12,4 +12,4 @@ HTML>
 pero todo llegará.</P>
 </BODY>
 </HTML> 
-<IMG SRC=GGSGG ALT="Obra de K. Haring">
+
