@@ -12,4 +12,4 @@ HTML>
 pero todo llegará.</P>
 </BODY>
 </HTML> 
-<IMG SRC="immagine.gif" ALT="Obra de K. Haring">
+<IMG SRC=GGSGG ALT="Obra de K. Haring">
