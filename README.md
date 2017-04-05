@@ -73,3 +73,4 @@
     <b><font color="#FFCC00" face="georgia" size="4"><marquee width="400" scrollamount="5" bgcolor="#232323">aqui tu texto</marquee>
     </font></b>
 </p><center> 
+<marquee id="ejemplo" direction="right">COCREALAB</marquee>
