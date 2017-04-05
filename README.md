@@ -74,4 +74,4 @@
     </font></b>
 </p><center> 
 
-<marquee id="ejemplo" direction="right"># COCREALAB</marquee>
+<marquee id="ejemplo" direction="right">"COCREA" COCREALAB</marquee>
