@@ -68,3 +68,8 @@
         </center>
     </div>
 </div> 
+
+<center> <div class="n"><p>
+    <b><font color="#FFCC00" face="georgia" size="4"><marquee width="400" scrollamount="5" bgcolor="#232323">aqui tu texto</marquee>
+    </font></b>
+</p><center> 
